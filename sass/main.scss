@@ -8,6 +8,7 @@
 @import './base/reset';
 @import './base/base';
 @import './base/container';
+@import './base/section';
 
 // Layout stiles
 @import './layouts/header';
@@ -20,7 +21,6 @@
 @import './layouts/clients';
 @import './layouts/portfolio';
 @import './layouts/footer';
-
 
 // Components stiles
 @import './components/btn';
